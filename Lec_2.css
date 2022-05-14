@@ -1,0 +1,20 @@
+.sec{
+
+	height: 600px;
+	width: 100%;
+	border: 2px solid green;
+	background-color: whitesmoke;
+	margin-top: 20px;
+
+}
+.div_1{
+	background-color: ghostwhite;
+	margin-left: 5%;
+	margin-top: 5%;
+	border: 2px solid yellow;
+	height: 400px;
+	width: 200px;
+	float: left;
+
+
+}
