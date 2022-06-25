@@ -1,0 +1,84 @@
+**   syllabus
+1 . Introduction of HTML
+    → HTML : Hyper text markup language.
+    → We can create static page with the help html.
+    --static : we can  not change content at running time.
+    -- Dynamic page : We like to change time to time.
+    → Every website made with the help of html tag.
+    <>
+    → HTML5
+    → We use version <!DOCTYPE html>
+2. Editors or tools or IDE or code Editor : where,we can write the code that is editor.
+3. HTML Basic : version , html, head, body, heading, p, pre, div
+4. Elements :  tag name also called element.
+            <p> Hii kunal </op>
+
+5. Attributes : all properties are called attributes.
+            <p Style="background-color: red"> Hii Kunal </op>
+6. Heading : h1, h2,h3, h4, h5, h6(use in heading).
+            h1> Main head</h1>
+7. paragraph : use p tag means write paragraph.
+            <p> I am pro player in backend.
+8. Styles : We design the web page(feel look like)
+            Example : color, background-color, height, width
+
+9. Formatting :
+<!-- formation -->
+<!--<b> - Bold text-->
+<!--  <strong> - Important text-->
+<!--    <i> - Italic text-->
+<!--      <em> - Emphasized text-->
+<!--        <mark> - Marked text-->
+<!--          <small> - Smaller text-->
+<!--            <del> - Deleted text-->
+<!--              <ins> - Inserted text-->
+<!--                <sub> - Subscript text-->
+<!--                  <sup> - Superscript text-->
+10.Quotation :
+               " " AND ' '
+11. comments: <!--    -->
+12. color : BLACK, RED, BLUE, WHITE "color: red"(color name)
+13. CSS :   1. Inline : tag in under
+	Ex: <div style="height: 600px; width: 400px; border: 2px solid black;background-color: darkred ;margin-left: 30%; padding: 5% 5% 5% 5%;">
+            2. Internal : We can use in head with styles tag.
+    Ex: 	<style>
+        	.body{
+        		background-color:yellow;
+
+        	}
+
+        	</style>
+            3. External : we can use style file another page.
+
+            Ex: 	<link rel="stylesheet" type="text/css" href="Lec_2.css">
+            How to use css in html
+            		From three types in tag
+            		1. id(#)
+            		2. class(.)
+            		3. using tag(tag-name{})
+14. Links: Link is a url or pathway of file.
+               <a href="https://en.wikipedia.org/wiki/Ajay_Devgn" target="_blank">click me </a>
+
+               The target attribute can have one of the following values:
+
+               _self - Default. Opens the document in the same window/tab as it was clicked
+               _blank - Opens the document in a new window or tab
+               _parent - Opens the document in the parent frame
+               _top - Opens the document in the full body of the window
+15. Images: Image is a dimension with the help of coordinate two points.This is coordinate intensity level change to height and width.
+                <img src="path-file-name with extension" >
+
+16. Favicon: This element use for in tab/window show icon or logo.
+    <link rel="icon" type="image/x-icon" href="icon.png">
+
+17. Table : We can store some data in row and column.
+<table>
+            1. Th(table heading)
+            2. Tr(table row)
+            3. td(table data)
+
+</table>
+18.
+
+
+
