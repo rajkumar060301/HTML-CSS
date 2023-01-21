@@ -1,17 +1,17 @@
 # HTML-CSS
-Theory
-PART 1
-Module 1: Web Programming Introduction
-Architecture of a website
-Different technologies in making the website
-Web Development Introduction
-Module 2: HTML-Introduction
-History of HTML
-What you need to do to get going and make your first HTML page
-What are HTML Tags and Attributes?
-HTML Tag vs. Element
-HTML Attributes
-Module 3: HTML-Basic Formatting Tags
+Theory<br>
+PART 1<br>
+Module 1: Web Programming Introduction<br>
+Architecture of a website<br>
+Different technologies in making the website<br>
+Web Development Introduction<br>
+Module 2: HTML-Introduction<br>
+History of HTML<br>
+What you need to do to get going and make your first HTML page<br>
+What are HTML Tags and Attributes?<br>
+HTML Tag vs. Element<br>
+HTML Attributes<br>
+Module 3: HTML-Basic Formatting Tags<br>
 HTML Basic Tags
 HTML Formatting Tags
 HTML Color Coding
